@@ -1,0 +1,345 @@
+  [{
+    "nom": "Développé assis à la machine convergente",
+    "muscle": "pectoraux",
+    "description": "Asseyez-vous sur la machine convergente avec le dos bien appuyé. Attrapez les poignées et poussez les bras vers l'avant en les écartant légèrement. Ramenez ensuite les bras en position initiale, en contrôlant bien le mouvement."
+  },
+  {
+    "nom": "Développé couché avec haltères",
+    "muscle": "pectoraux",
+    "description": "Allongez-vous sur un banc avec un haltère dans chaque main. Les haltères doivent être au niveau des épaules, les paumes des mains tournées vers l'avant. Descendez les haltères jusqu'à ce que vos bras soient parallèles au sol, puis remontez-les en expirant."
+  },
+  {
+    "nom": "Développé couché à la barre",
+    "muscle": "pectoraux",
+    "description": "Allongez-vous sur un banc avec une barre chargée. Les mains doivent être écartées d'une largeur légèrement supérieure à la largeur des épaules. Descendez la barre jusqu'à ce qu'elle touche votre poitrine, puis remontez-la en expirant."
+  },
+  {
+    "nom": "Développé couché à la machine convergente",
+    "muscle": "pectoraux",
+    "description": "Allongez-vous sur la machine convergente avec le dos bien appuyé. Attrapez les poignées et poussez les bras vers l'avant en les écartant légèrement. Ramenez ensuite les bras en position initiale, en contrôlant bien le mouvement."
+  },
+  {
+    "nom": "Développé décliné avec haltères",
+    "muscle": "pectoraux",
+    "description": "Allongez-vous sur un banc incliné vers le bas avec un haltère dans chaque main. Les haltères doivent être au niveau des épaules, les paumes des mains tournées vers l'avant. Descendez les haltères jusqu'à ce que vos bras soient parallèles au sol, puis remontez-les en expirant."
+  },
+  {
+    "nom": "Développé décliné à la barre",
+    "muscle": "pectoraux",
+    "description": "Allongez-vous sur un banc incliné vers le bas avec une barre chargée. Les mains doivent être écartées d'une largeur légèrement supérieure à la largeur des épaules. Descendez la barre jusqu'à ce qu'elle touche votre poitrine, puis remontez-la en expirant."
+  },
+  {
+    "nom": "Développé incliné avec haltères",
+    "muscle": "pectoraux",
+    "description": "Allongez-vous sur un banc incliné vers le haut avec un haltère dans chaque main. Les haltères doivent être au niveau des épaules, les paumes des mains tournées vers l'avant. Descendez les haltères jusqu'à ce que vos bras soient parallèles au sol, puis remontez-les en expirant."
+  },
+  {
+    "nom": "Développé incliné à la barre",
+    "muscle": "pectoraux",
+    "description": "Le développé incliné à la barre est un exercice de musculation poly-articulaire qui sollicite principalement les muscles des pectoraux, des épaules et des triceps."
+  },
+  {
+    "nom": "Développé incliné à la machine convergente",
+    "muscle": "pectoraux",
+    "description": "Le développé incliné à la machine convergente est un exercice de musculation qui sollicite principalement les muscles des pectoraux, des épaules et des triceps. Cet exercice permet de travailler la partie haute des pectoraux de manière isolée."
+  },
+  {
+    "nom": "Dips prise large buste penché",
+    "muscle": "pectoraux",
+    "description": "Les dips prise large buste penché sont un exercice de musculation poly-articulaire qui sollicite principalement les muscles des pectoraux, des épaules et des triceps. Cet exercice permet de travailler les pectoraux de manière isolée en inclinant le buste vers l'avant."
+  },
+  {
+    "nom": "Écarté couché avec haltères",
+    "muscle": "Pectoraux",
+    "description": "Allongé sur un banc, bras tendus et haltères en main, écarter les bras jusqu'à sentir l'étirement des pectoraux puis ramener les haltères au-dessus de la poitrine en gardant les coudes fléchis."
+  },
+  {
+    "nom": "Écarté décliné avec haltères",
+    "muscle": "Pectoraux",
+    "description": "Allongé sur un banc incliné à 45°, bras tendus et haltères en main, écarter les bras jusqu'à sentir l'étirement des pectoraux puis ramener les haltères au-dessus de la poitrine en gardant les coudes fléchis."
+  },
+  {
+    "nom": "Écarté incliné avec haltères",
+    "muscle": "Pectoraux",
+    "description": "Allongé sur un banc incliné à 45°, bras tendus et haltères en main, écarter les bras jusqu'à sentir l'étirement des pectoraux puis ramener les haltères au-dessus de la poitrine en gardant les coudes fléchis."
+  },
+  {
+    "nom": "Écarté pectoraux à la machine",
+    "muscle": "Pectoraux",
+    "description": "Assis sur la machine, bras tendus et coudes légèrement fléchis, pousser les poignées en les écartant pour solliciter les pectoraux."
+  },
+  {
+    "nom": "Pompes prise large au sol",
+    "muscle": "Pectoraux",
+    "description": "En position de planche, les mains placées plus larges que les épaules, fléchir les bras jusqu'à amener le buste près du sol puis pousser pour revenir à la position de départ."
+  },
+  {
+    "nom": "Écarté à la poulie vis à vis basse",
+    "muscle": "pectoraux",
+    "description": "Cet exercice sollicite les muscles des pectoraux de façon isolée. Pour réaliser cet exercice, il faut se tenir devant une poulie basse, en position debout et les bras légèrement fléchis. Ensuite, il faut tirer les poignées vers l'avant en les gardant à la même hauteur, jusqu'à ce que les bras soient tendus devant soi. Puis, il faut revenir à la position de départ en contrôlant la descente."
+  },
+  {
+    "nom": "Écarté à la poulie vis à vis haute",
+    "muscle": "pectoraux",
+    "description": "Cet exercice sollicite les muscles des pectoraux de façon isolée. Pour réaliser cet exercice, il faut se tenir devant une poulie haute, en position debout et les bras légèrement fléchis. Ensuite, il faut tirer les poignées vers le bas en les gardant à la même hauteur, jusqu'à ce que les bras soient tendus devant soi. Puis, il faut revenir à la position de départ en contrôlant la montée."
+  },
+  {
+    "nom": "Traction prise pronation",
+    "muscle": "Dos",
+    "description": "Suspendez-vous à une barre de traction, les mains placées un peu plus larges que la largeur des épaules et les paumes tournées vers l'avant. Tirez votre corps vers la barre jusqu'à ce que votre poitrine soit à peu près au niveau de la barre, puis redescendez lentement."
+  },
+  {
+    "nom": "Traction prise neutre",
+    "muscle": "Dos",
+    "description": "Suspendez-vous à une barre de traction, les mains placées à la largeur des épaules avec les paumes tournées vers vous. Tirez votre corps vers la barre jusqu'à ce que votre poitrine soit à peu près au niveau de la barre, puis redescendez lentement."
+  },
+  {
+    "nom": "Traction prise supination",
+    "muscle": "Dos",
+    "description": "Suspendez-vous à une barre de traction, les mains placées à la largeur des épaules avec les paumes tournées vers vous. Tirez votre corps vers la barre jusqu'à ce que votre poitrine soit à peu près au niveau de la barre, puis redescendez lentement."
+  },
+  {
+    "nom": "Rowing à la T-bar",
+    "muscle": "dos",
+    "description": "Asseyez-vous sur le banc de la T-bar et attrapez la barre en V avec une prise en pronation. Le dos doit être droit et les jambes légèrement fléchies. Tirez la barre vers votre ventre en contractant les omoplates. Gardez vos coudes près de votre corps pendant tout le mouvement."
+  },
+  {
+    "nom": "Rowing à un bras avec haltère",
+    "muscle": "dos",
+    "description": "Penchez-vous en avant et placez une main sur un banc pour un support. Avec l'autre main, saisissez l'haltère et tirez-le vers le haut en contractant le dos. Abaissez lentement l'haltère et répétez avec l'autre bras."
+  },
+  {
+    "nom": "Rowing à un bras à la machine",
+    "muscle": "dos",
+    "description": "Asseyez-vous à la machine à ramer et saisissez la poignée avec une main. Penchez-vous légèrement en avant et tirez la poignée vers votre taille en contractant le dos. Abaissez lentement la poignée et répétez avec l'autre bras."
+  },
+  {
+    "nom": "Rowing à la poulie",
+    "muscle": "dos",
+    "description": "Asseyez-vous devant une poulie haute avec une barre en V attachée. Saisissez la barre en V avec une prise en pronation. Le dos doit être droit et les jambes légèrement fléchies. Tirez la barre vers votre ventre en contractant les omoplates. Gardez vos coudes près de votre corps pendant tout le mouvement."
+  },
+  {
+    "nom": "Rowing debout",
+    "muscle": "dos",
+    "description": "Tenez une barre avec une prise en pronation et les mains légèrement plus larges que les épaules. Penchez-vous légèrement en avant et pliez les genoux. Tirez la barre vers le haut vers le torse en contractant le dos. Abaissez lentement la barre et répétez."
+  },
+  {
+    "nom": "Élévation latérale",
+    "muscle": "Deltoïdes",
+    "description": "Debout, bras le long du corps, lever les bras à l'horizontal en gardant une légère flexion au niveau des coudes"
+  },
+  {
+    "nom": "Développé militaire avec haltères",
+    "muscle": "Deltoïdes",
+    "description": "Debout, haltères en main, les amener de chaque côté des épaules puis les pousser vers le haut"
+  },
+  {
+    "nom": "Développé militaire à la barre",
+    "muscle": "Deltoïdes",
+    "description": "Assis, prise en pronation légèrement plus large que les épaules, pousser la barre vers le haut"
+  },
+  {
+    "nom": "Oiseau à la poulie",
+    "muscle": "Deltoïdes",
+    "description": "Debout face à la poulie, saisir les poignées avec les mains en pronation, ramener les bras latéralement jusqu'à hauteur d'épaules"
+  },
+  {
+    "nom": "Oiseau aux haltères",
+    "muscle": "Deltoïdes",
+    "description": "Debout, haltères en main, pencher légèrement le buste vers l'avant, puis ramener les bras latéralement jusqu'à hauteur d'épaules"
+  },
+  {
+    "nom": "Tirage menton",
+    "muscle": "Deltoïdes",
+    "description": "Tenez-vous debout, les pieds écartés de la largeur des épaules et prenez une barre avec une prise large. Tirez la barre vers le haut jusqu'à ce qu'elle passe votre menton, puis abaissez-la doucement."
+  },
+  {
+    "nom": "Élévation latérale à la poulie",
+    "muscle": "Deltoïdes",
+    "description": "Réglez une poulie à la hauteur de vos épaules. Tenez une poignée de chaque main et levez les bras sur les côtés jusqu'à ce qu'ils soient à l'horizontale, puis redescendez doucement."
+  },
+  {
+    "nom": "Extensions à la poulie avec corde",
+    "muscle": "Triceps",
+    "description": "Prendre une corde fixée à la poulie haute, bras fléchis et serrés près des oreilles. Étendre les bras en gardant les coudes immobiles. Ramener lentement la corde à la position de départ en fléchissant les bras."
+  },
+  {
+    "nom": "Extensions à la poulie à la corde bras au-dessus de la tête",
+    "muscle": "Triceps",
+    "description": "Prendre une corde fixée à la poulie haute, bras levés au-dessus de la tête. Étendre les bras en gardant les coudes immobiles. Ramener lentement la corde à la position de départ en fléchissant les bras."
+  },
+  {
+    "nom": "Extensions aux haltères derrière la tête",
+    "muscle": "Triceps",
+    "description": "Allongé sur un banc, tenir les haltères au-dessus de la tête, les bras fléchis. Descendre les haltères derrière la tête en gardant les coudes immobiles. Ramener les haltères à la position de départ en fléchissant les bras."
+  },
+  {
+    "nom": "Dips",
+    "muscle": "Triceps",
+    "description": "Se placer sur des barres parallèles. Descendre le corps en fléchissant les coudes jusqu'à ce que les bras soient parallèles au sol. Remonter lentement en tendant les bras."
+  },
+  {
+    "nom": "Curl aux haltères",
+    "muscle": "Biceps",
+    "description": "Cet exercice consiste à fléchir les bras tout en maintenant les coudes près du corps, avec les paumes des mains tournées vers le haut, en soulevant des haltères."
+  },
+  {
+    "nom": "Curl aux haltères prise marteau",
+    "muscle": "Biceps",
+    "description": "Cet exercice consiste à fléchir les bras tout en maintenant les coudes près du corps, avec les paumes des mains tournées vers l'intérieur, en soulevant des haltères."
+  },
+  {
+    "nom": "Curl à la barre",
+    "muscle": "Biceps",
+    "description": "Cet exercice consiste à fléchir les bras tout en maintenant les coudes près du corps, avec les paumes des mains tournées vers le haut, en soulevant une barre droite."
+  },
+  {
+    "nom": "Curl à la poulie à la corde",
+    "muscle": "Biceps",
+    "description": "Cet exercice consiste à fléchir les bras tout en maintenant les coudes près du corps, avec les paumes des mains tournées vers le haut, en tirant une corde attachée à une poulie vers le haut."
+  },
+  {
+    "nom": "Curl à la poulie",
+    "muscle": "Biceps",
+    "description": "Cet exercice consiste à fléchir les bras tout en maintenant les coudes près du corps, avec les paumes des mains tournées vers le haut, en tirant une barre attachée à une poulie vers le haut."
+  },
+  {
+    "nom": "Crunch au sol",
+    "muscle": "Abdominaux",
+    "description": "Cet exercice consiste à fléchir le torse vers les genoux tout en maintenant les bras croisés sur la poitrine et en gardant les pieds posés sur le sol."
+  },
+  {
+    "nom": "Crunch à la poulie",
+    "muscle": "Abdominaux",
+    "description": "Cet exercice consiste à fléchir le torse vers les genoux tout en maintenant les bras tendus devant soi et en tirant sur une corde attachée à une poulie."
+  },
+  {
+    "nom": "Relevé de jambe au sol",
+    "muscle": "Abdominaux",
+    "description": "Cet exercice consiste à lever les jambes tendues en gardant le bas du dos collé au sol."
+  },
+  {
+    "nom": "Relevé de jambe à la barre",
+    "muscle": "Abdominaux",
+    "description": "Cet exercice consiste à se suspendre à une barre fixe tout en levant les jambes tendues jusqu'à former un angle de 90 degrés avec le haut du corps."
+  },
+  {
+    "nom": "Flexion oblique",
+    "muscle": "Abdominaux",
+    "description": "Cet exercice consiste à fléchir le torse sur le côté en touchant le coude opposé au genou en gardant les pieds posés sur le sol."
+  },
+  {
+    "nom": "Squat",
+    "muscle": "Quadriceps",
+    "description": "Cet exercice consiste à fléchir les genoux tout en gardant le dos droit, en descendant le bassin jusqu'à ce que les cuisses soient parallèles au sol, puis en se relevant."
+  },
+  {
+    "nom": "Hack squat",
+    "muscle": "Quadriceps",
+    "description": "Cet exercice consiste à fléchir les genoux tout en gardant le dos droit, en descendant le bassin jusqu'à ce que les cuisses soient parallèles au sol, puis en se relevant, en utilisant une machine spéciale pour le hack squat."
+  },
+  {
+    "nom": "Extensions de jambe",
+    "muscle": "Quadriceps",
+    "description": "Cet exercice consiste à fléchir les jambes à un angle de 90 degrés tout en maintenant les pieds dans une position fixe, en poussant un poids avec les jambes vers le haut, en utilisant une machine spéciale pour les extensions de jambe."
+  },
+  {
+    "nom": "Fentes",
+    "muscle": "Quadriceps",
+    "description": "Cet exercice consiste à faire un pas en avant avec une jambe et à fléchir les deux genoux pour descendre jusqu'à ce que les deux jambes soient à un angle de 90 degrés, puis à se relever et à répéter l'exercice avec l'autre jambe."
+  },
+  {
+    "nom": "Curl allongé sur le ventre",
+    "muscle": "Ischio-jambiers",
+    "description": "Cet exercice consiste à fléchir les jambes en position allongée sur le ventre en maintenant les chevilles attachées à une machine ou des poids libres."
+  },
+  {
+    "nom": "Soulevé de terre jambes tendues avec haltère",
+    "muscle": "Ischio-jambiers",
+    "description": "Cet exercice consiste à soulever un haltère tout en gardant les jambes tendues et en fléchissant le dos vers l'avant pour étirer les ischio-jambiers."
+  },
+  {
+    "nom": "Soulevé de terre jambes tendues à la barre",
+    "muscle": "Ischio-jambiers",
+    "description": "Cet exercice consiste à soulever une barre tout en gardant les jambes tendues et en fléchissant le dos vers l'avant pour étirer les ischio-jambiers."
+  },
+  {
+    "nom": "Soulevé de terre",
+    "muscle": "Ischio-jambiers",
+    "description": "Cet exercice consiste à soulever une barre tout en fléchissant les jambes et en gardant le dos droit pour travailler les ischio-jambiers, les fessiers et les quadriceps."
+  },
+  {
+    "nom": "Curl à la machine",
+    "muscle": "Ischio-jambiers",
+    "description": "Cet exercice consiste à fléchir les jambes tout en maintenant le haut du corps droit à l'aide d'une machine pour travailler les ischio-jambiers."
+  },
+  {
+    "nom": "Hip Thrust",
+    "muscle": "Fessiers",
+    "description": "Cet exercice consiste à se tenir le dos contre un banc avec les pieds au sol et à soulever les hanches en poussant avec les fessiers."
+  },
+  {
+    "nom": "Kick-back",
+    "muscle": "Fessiers",
+    "description": "Cet exercice consiste à se tenir sur les mains et les genoux, à lever une jambe vers l'arrière tout en gardant le genou plié et en contractant les fessiers."
+  },
+  {
+    "nom": "Fentes",
+    "muscle": "Fessiers",
+    "description": "Cet exercice consiste à faire un pas en avant avec une jambe, en fléchissant les deux genoux jusqu'à ce que le genou arrière touche presque le sol, puis en poussant avec la jambe avant pour revenir à la position de départ."
+  },
+  {
+    "nom": "Sumo Deadlift",
+    "muscle": "Fessiers",
+    "description": "Cet exercice consiste à se tenir debout devant une barre avec les pieds écartés plus que la largeur des épaules, les orteils pointant vers l'extérieur, à fléchir les jambes et à saisir la barre avec les mains à l'intérieur des jambes, puis à se relever en poussant avec les fessiers."
+  },
+  {
+    "nom": "Pistol Squat",
+    "muscle": "Fessiers",
+    "description": "Cet exercice consiste à se tenir sur une jambe, à fléchir le genou et à descendre jusqu'à ce que la cuisse soit parallèle au sol, puis à remonter en poussant avec le fessier de la jambe en appui."
+  },
+  {
+    "nom": "Levée de mollets debout à la barre",
+    "muscle": "Mollets",
+    "description": "Cet exercice consiste à se tenir debout avec les pieds écartés à la largeur des épaules et à soulever les talons tout en maintenant les genoux tendus. Il est possible d'ajouter du poids en tenant une barre sur les épaules."
+  },
+  {
+    "nom": "Levée de mollets debout à la machine",
+    "muscle": "Mollets",
+    "description": "Cet exercice consiste à se tenir debout sur une machine à levée de mollets et à soulever les talons tout en maintenant les genoux tendus. Il est possible d'ajuster la résistance en fonction de son niveau de force."
+  },
+  {
+    "nom": "Levée de mollets assis à la machine",
+    "muscle": "Mollets",
+    "description": "Cet exercice consiste à s'asseoir sur une machine à levée de mollets et à soulever les talons tout en maintenant les genoux tendus. Il est possible d'ajuster la résistance en fonction de son niveau de force."
+  },
+  {
+    "nom": "Levée de mollets à la presse à cuisses",
+    "muscle": "Mollets",
+    "description": "Cet exercice consiste à placer les pieds sur la plate-forme de la presse à cuisses et à pousser la plate-forme avec les talons tout en maintenant les genoux tendus. Il est possible d'ajuster la résistance en fonction de son niveau de force."
+  },
+  {
+    "nom": "Sauts de grenouille",
+    "muscle": "Mollets",
+    "description": "Cet exercice consiste à sauter en se mettant en position accroupie, puis à sauter en tendant les jambes et en soulevant les talons. Il peut être effectué avec ou sans poids."
+  },
+  {
+    "nom": "Good Morning",
+    "muscle": "Lombaires",
+    "description": "Cet exercice consiste à fléchir le corps en avant à partir des hanches, tout en gardant la colonne vertébrale droite et en contractant les muscles des fessiers et des lombaires."
+  },
+  {
+    "nom": "Soulevé de terre roumain",
+    "muscle": "Lombaires",
+    "description": "Cet exercice consiste à fléchir le corps en avant à partir des hanches, tout en gardant la colonne vertébrale droite et en contractant les muscles des fessiers et des lombaires. Les jambes restent tendues tout au long de l'exercice."
+  },
+  {
+    "nom": "Extension lombaire à la machine",
+    "muscle": "Lombaires",
+    "description": "Cet exercice se fait sur une machine spéciale et consiste à fléchir le corps en avant à partir des hanches, tout en gardant la colonne vertébrale droite et en contractant les muscles des fessiers et des lombaires."
+  },
+  {
+    "nom": "Superman",
+    "muscle": "Lombaires",
+    "description": "Cet exercice se fait à plat ventre et consiste à lever les bras, les jambes et la poitrine simultanément, en contractant les muscles des fessiers et des lombaires."
+  }]

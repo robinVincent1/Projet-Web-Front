@@ -1,5 +1,5 @@
 import { Exercice, Programme, Seance } from "./RechercheProgrammeUser"
-const apiUrl = "http://localhost:3001/api";
+const apiUrl = "https://projet-web-api.onrender.com/api";
 
 export const PutProgramme = async (prog: Programme, token: string) => {
     try {

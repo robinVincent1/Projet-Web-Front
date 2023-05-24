@@ -37,7 +37,7 @@ export default function Identifiant({onObject, onMessage,}: Props) {
       message: message,
     }
     try {
-      const response = await fetch(`http://localhost:3001/api/avis`, {
+      const response = await fetch(`https://projet-web-api.onrender.com/api/avis`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

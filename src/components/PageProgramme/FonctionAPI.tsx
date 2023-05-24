@@ -2,7 +2,7 @@ import { ExerciceStockage, ProgStockage, SeanceStockage } from "./CreerProg";
 import Cookies from "js-cookie";
 import jwt from "jsonwebtoken"
 
-const apiUrl = "http://localhost:3001/api";
+const apiUrl = "https://projet-web-api.onrender.com/api";
 
 export const addSeance = async (seance: SeanceStockage, token: String) => {
   try {

@@ -38,7 +38,7 @@ export default function ButtonSignInS({
   const authenticate = async (Identifiant: string, MotDePasse: string) => {
     try {
       const response = await fetch(
-        "http://localhost:3001/api/authentification/",
+        "https://projet-web-api.onrender.com/api/authentification/",
         {
           method: "POST",
           headers: {
@@ -136,7 +136,7 @@ export default function ButtonSignInS({
       admin: false,
     };
     try {
-      const response = await fetch(`http://localhost:3001/api/utilisateurs`, {
+      const response = await fetch(`https://projet-web-api.onrender.com/api/utilisateurs`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

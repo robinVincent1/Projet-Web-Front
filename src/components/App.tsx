@@ -1,6 +1,6 @@
-import React, { useState } from "react";
+import React from "react";
 import "../styles/App.css";
-import { Routes, Route, NavLink } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import { PageAccueil } from "./Accueil/PageAccueil";
 import { Contact } from "./Contact/Contact";
 import { ProgrammePage } from "./PageProgramme/Programme";

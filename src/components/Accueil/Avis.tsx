@@ -12,7 +12,7 @@ export const Avis = () => {
 
     const getAvis = async () => {
         try {
-            const response = await fetch(`http://localhost:3001/api/avis`, {
+            const response = await fetch(`https://projet-web-api.onrender.com/api/avis`, {
               method: "GET",
               headers: {
                 "Content-Type": "application/json",
@@ -31,7 +31,7 @@ export const Avis = () => {
 
     const getUtilisateur = async (id: string) => {
         try {
-            const response = await fetch(`http://localhost:3001/api/utilisateurs/${id}`, {
+            const response = await fetch(`https://projet-web-api.onrender.com/api/utilisateurs/${id}`, {
               method: "GET",
               headers: {
                 "Content-Type": "application/json",

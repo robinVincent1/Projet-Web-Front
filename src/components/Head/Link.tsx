@@ -22,7 +22,7 @@ export default function TextButtons() {
         <SvgIconsSize />
       </Button>
       {isLoggedIn && 
-      <div className=" items-center text-center justify-center flex">
+      <div className="font-bold items-center text-center justify-center flex">
         <Button
         component={NavLink}
         to="/Programme"
@@ -33,7 +33,7 @@ export default function TextButtons() {
           padding: 4,
         }}
       >
-        <div className="text-xs sm:text-xs md:text-xs lg:text-md xl:text-md mr-4">
+        <div className="font-bold text-xs sm:text-xs md:text-xs lg:text-md xl:text-md mr-4">
           Programme
         </div>
       </Button>
@@ -48,7 +48,7 @@ export default function TextButtons() {
         }}
         href="#text-buttons"
       >
-        <div className="text-xs sm:text-xs md:text-xs lg:text-md xl:text-md ml-4">
+        <div className=" font-bold text-xs sm:text-xs md:text-xs lg:text-md xl:text-md ml-4">
           Performance
         </div>
       </Button>

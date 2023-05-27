@@ -21,7 +21,7 @@ export default function LinkR() {
           padding: 4,
         }}
       >
-        <div className="text-xs sm:text-xs md:text-xs lg:text-md xl:text-md mr-4">
+        <div className="font-bold text-xs sm:text-xs md:text-xs lg:text-md xl:text-md mr-4">
           Contact
         </div>
       </Button>
@@ -37,7 +37,7 @@ export default function LinkR() {
           fontSize: "24px",
         }}
       >
-        <div className="text-lg sm:text-xl md:text-xl lg:text-lg xl:text-xl mr-4">
+        <div className="font-bold text-lg sm:text-xl md:text-xl lg:text-lg xl:text-xl mr-4">
           <FaUserCircle />
         </div>
       </Button>

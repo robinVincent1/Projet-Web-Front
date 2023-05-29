@@ -96,7 +96,7 @@ export default function ButtonSignInS({
     for (const p of prog) {
       const newProg: ProgStockage = {
         createur: idUser,
-        admin: admin,
+        admin: false,
         nom: p.nom,
         affich: p.affich,
       };
